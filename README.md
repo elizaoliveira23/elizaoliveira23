@@ -1,6 +1,6 @@
 ### Olá Eu sou Eliza Oliveira 👋
-Sou estudante Devsenvolvedor Back-end java no Senai-Sc,estou focada na minha transição de carreira para áreas relacionadas á TI pois é o meu sonho trabalhar com tecnologias.
-No meu lado pessoal sou mãe,esposa e uma pessoa reservada  e criativa que támbem ama aprender coisas novas e ouvir bastante música. 
+Sou estudante Desenvolvedor Back-end java no Senai-Sc,estou focada na minha transição de carreira para áreas relacionadas á TI pois é o meu sonho trabalhar com tecnologias atualmente trabalho no setor têxtil.
+No meu lado pessoal sou mãe,esposa,uma pessoa reservada  e criativa que támbem ama aprender coisas novas e ouvir bastante música. 
 Meus hobbies são pintura/desenhos,crochê e videogames🖌️🧶🎮.
 
 Entre em contato:
